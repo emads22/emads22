@@ -9,7 +9,7 @@ I specialize in application development, web development, software architecture,
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [emadsaab222@gmail.com](mailto:emadsaab222@gmail.com)
 * 🧠  I'm learning Machine Learning and Artificial Intelligence
-* ⚡  **Personal Motto:** "Do not go gentle into that good night. Rage, rage against the dying of the light." – Dylan Thomas
+* ⚡  "Do not go gentle into that good night. Rage, rage against the dying of the light." – Dylan Thomas
 
 <a href="https://www.github.com/emads22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/emads22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
