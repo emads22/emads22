@@ -5,6 +5,7 @@ Python Software Engineer
 ------------------------
 
 I specialize in Python development, focusing on application development, API and back-end web development, automation, and software architecture. I aim to transform complex problems into efficient, user-friendly solutions through thoughtful design and advanced technical expertise.
+
 My role involves developing applications that are functional, maintainable, and efficient. I ensure each project meets high standards and provides an excellent user experience.
 
 * 🌍  I'm based in Lebanon
