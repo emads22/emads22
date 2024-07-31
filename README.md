@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Software Engineer
 ------------------------
 
-I specialize in application development, web development, software architecture, and automation. I focus on transforming complex problems into efficient, user-friendly solutions through thoughtful design and advanced technical expertise. My role is to develop applications that are functional, maintainable, and efficient. I ensure each project meets high standards and provides an excellent user experience. My goal is to convey your message and identity through robust, scalable, and well-designed software solutions.
+I specialize in Python development, focusing on application development, API and back-end web development, automation, and software architecture. I aim to transform complex problems into efficient, user-friendly solutions through thoughtful design and advanced technical expertise.
+
+My role involves developing applications that are functional, maintainable, and efficient. I ensure each project meets high standards and provides an excellent user experience. My goal is to convey your message and identity through robust, scalable, and well-designed software solutions.
 
 * 🌍  I'm based in Lebanon
 * 🖥️  See my portfolio at [emadsaab.pythonanywhere.com](https://emadsaab.pythonanywhere.com)
