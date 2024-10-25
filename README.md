@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Software Engineer
 ------------------------
 
-As a Python Software Engineer, I specialize in application development, API and back-end web development, and software solutions.
-I handle complex challenges with technical skill and strategic design, managing projects from concept to completion.
+I specialize in application development, API and back-end web development, and software solutions.<br>
+I handle complex challenges with technical skill and strategic design, managing projects from concept to completion.<br>
 My focus is on creating functional, maintainable, and efficient solutions that meet industry standards and provide reliable user experiences.
 
 * 🌍  I'm based in Lebanon
