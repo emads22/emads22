@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Software Engineer
 ------------------------
 
-I specialize in application development, API and back-end web development, and software solutions. 
+As a Python Software Engineer, I specialize in application development, API and back-end web development, and software solutions.
 I handle complex challenges with technical skill and strategic design, managing projects from concept to completion.
-I create functional, maintainable, and efficient solutions that meet industry standards and provide reliable user experiences.
+My focus is on creating functional, maintainable, and efficient solutions that meet industry standards and provide reliable user experiences.
 
 * 🌍  I'm based in Lebanon
 * 🖥️  See my portfolio at [emadsaab.pythonanywhere.com](https://emadsaab.pythonanywhere.com/portfolio)
