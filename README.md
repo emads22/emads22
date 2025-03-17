@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python & LLM Engineer
 ------------------------
 
-I specialize in AI-powered applications, back-end development, and automation solutions. I build scalable, maintainable software that enhances efficiency and optimizes workflows. Passionate about LLMs, API development, and AI-driven automation, I tackle complex challenges with technical precision and strategic design.
+I specialize in Python and AI-powered applications, back-end development, and automation solutions. 
+I build scalable, maintainable software that enhances efficiency and optimizes workflows. 
+Passionate about LLMs, API development, and AI-driven automation, I tackle complex challenges with technical precision and strategic design.
 
 * 🌍  I'm based in Lebanon
 * 🖥️  See my portfolio at [emadsaab.pythonanywhere.com](https://emadsaab.pythonanywhere.com/portfolio)
