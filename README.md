@@ -11,7 +11,6 @@ Passionate about LLMs, API development, and AI-driven automation, I tackle compl
 * 🌍  I'm based in Lebanon
 * 🖥️  See my portfolio at [emadsaab.pythonanywhere.com](https://emadsaab.pythonanywhere.com/portfolio)
 * ✉️  You can contact me at [emadsaab222@gmail.com](mailto:emadsaab222@gmail.com)
-* 🧠  I'm learning Machine Learning and Artificial Intelligence
 * ⚡  "Do not go gentle into that good night. Rage, rage against the dying of the light." – Dylan Thomas
 
 <a href="https://www.github.com/emads22" target="_blank" rel="noreferrer"><img
