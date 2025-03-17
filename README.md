@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emad
 ============================================================================================================================
 
-Python Software Engineer
+Python & LLM Engineer
 ------------------------
 
-I specialize in application development, API and back-end web development, and software solutions.<br>
-I handle complex challenges with technical skill and strategic design, managing projects from concept to completion.<br>
-My focus is on creating functional, maintainable, and efficient solutions that meet industry standards and provide reliable user experiences.
+I specialize in AI-powered applications, back-end development, and automation solutions.<br>
+I build scalable, maintainable software that enhances efficiency and optimizes workflows.<br>
+Passionate about LLMs, API development, and AI-driven automation, I tackle complex challenges with technical precision and strategic design.
 
 * 🌍  I'm based in Lebanon
 * 🖥️  See my portfolio at [emadsaab.pythonanywhere.com](https://emadsaab.pythonanywhere.com/portfolio)
