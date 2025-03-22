@@ -9,7 +9,7 @@ I build scalable, maintainable software that enhances efficiency and optimizes w
 Passionate about LLMs, API development, and AI-driven automation, I tackle complex challenges with technical precision and strategic design.
 
 * 🌍  I'm based in Lebanon
-* 🖥️  See my portfolio at [emadsaab.pythonanywhere.com](https://emadsaab.pythonanywhere.com/portfolio)
+* 🖥️  See my portfolio at [emadsaab.com](https://www.emadsaab.com/portfolio)
 * ✉️  You can contact me at [emadsaab222@gmail.com](mailto:emadsaab222@gmail.com)
 * ⚡  "Do not go gentle into that good night. Rage, rage against the dying of the light." – Dylan Thomas
 
